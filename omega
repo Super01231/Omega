@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omega Science and Sprituality</title>
+</head>
+<body>
+    <div>
+    <button class="buttons">About Us</button>
+    <button class="buttons">Join Us</button>
+    <button class="buttons">Science and spirituality</button>
+    <button class="buttons">Contact</button>
+    </div> 
+</body>
+</html>
