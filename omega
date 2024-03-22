@@ -11,6 +11,8 @@
     <button class="buttons">Join Us</button>
     <button class="buttons">Science and spirituality</button>
     <button class="buttons">Contact</button>
-    </div> 
+    <input type="text">
+    <img id="OSS" src="Screenshot 2024-03-22 095506.png" alt="">
+</div> 
 </body>
 </html>
