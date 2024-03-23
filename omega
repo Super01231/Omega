@@ -46,7 +46,7 @@ a:hover
     box-sizing: border-box;
     position: relative;
     left: 45%;
-    bottom: 68px;
+    bottom: 65px;
     width: 80px;
     height: 66.66px
 }
@@ -72,7 +72,7 @@ a:hover
     </div> 
     <div class="Logo">
         <a href="">
-            <img id="logo" src="Screenshot 2024-03-22 095506.png" style="width: 80px">
+            <img id="logo" src="OSS LOGO (Transparent).png" style="width: 80px">
         </a>
     </div>
 
