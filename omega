@@ -5,14 +5,77 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Omega Science and Sprituality</title>
 </head>
+<style>
+.navigation
+{
+    height:70px;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+.site_navigation ul
+    {
+       height: 50px;
+        overflow: auto;
+    }
+.site_navigation li
+{   
+    display: block;
+    float: inline-start;
+    position: relative;
+    list-style: none;
+    height: 35px;
+    
+}
+.site_navigation a
+{
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 145px ;
+    position: relative;
+    top: 23px;
+    
+}
+a:hover
+{
+    color: aquamarine;
+
+}
+.Logo
+{
+    box-sizing: border-box;
+    position: relative;
+    left: 45%;
+    bottom: 68px;
+    width: 80px;
+    height: 66.66px
+}
+</style>
 <body>
-    <div>
-    <button class="buttons">About Us</button>
-    <button class="buttons">Join Us</button>
-    <button class="buttons">Science and spirituality</button>
-    <button class="buttons">Contact</button>
-    <input type="text">
-    <img id="OSS" src="Screenshot 2024-03-22 095506.png" alt="">
-</div> 
+    <div class="navigation">
+        <nav class="site_navigation">
+            <ul class="main_nav">
+                <li class="us">
+                    <a href="">About Us</a>
+                </li>
+                <li class="us">
+                    <a href="">Join Us</a>
+                </li>
+                <li class="us">
+                    <a href="">Achievements</a>
+                </li>
+                <li class="us">
+                    <a href="">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </div> 
+    <div class="Logo">
+        <a href="">
+            <img id="logo" src="Screenshot 2024-03-22 095506.png" style="width: 80px">
+        </a>
+    </div>
+
+
 </body>
 </html>
