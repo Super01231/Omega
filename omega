@@ -6,6 +6,15 @@
     <title>Omega Science and Sprituality</title>
 </head>
 <style>
+    body {
+        /* Set background image and properties */
+        background-image: url("360_F_600800203_LXNpX0d9ZbazkNfuLd4tgNH2VN7HtNlv.jpg"); /* Replace with your image path */
+        margin: 0; /* Remove default body margin */
+        height: 90vh; /* Set body height to 100% viewport height */
+        background-repeat: repeat; /* Repeat the image for seamless scrolling */
+        background-attachment: fixed; /* Fix the background to the viewport */
+        background-size: cover; /* Ensure image covers the entire viewport */
+    }
 .navigation
 {
     height:70px;
@@ -31,7 +40,7 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
-    margin: 145px ;
+    margin: 115px ;
     position: relative;
     top: 23px;
     
@@ -45,7 +54,7 @@ a:hover
 {
     box-sizing: border-box;
     position: relative;
-    left: 45%;
+    left: 1%;
     bottom: 65px;
     width: 80px;
     height: 66.66px
@@ -60,6 +69,9 @@ a:hover
                 </li>
                 <li class="us">
                     <a href="">Join Us</a>
+                </li>
+                <li class="us">
+                    <a href="https://knitishv.notion.site/7441ab9ddd3a4bdaad329c05da74755d?v=75a78d5dc5d54ddd981d378f8ebdd3d5&pvs=4">Events</a>
                 </li>
                 <li class="us">
                     <a href="">Achievements</a>
