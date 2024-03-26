@@ -10,15 +10,16 @@
         /* Set background image and properties */
         background-image: url("360_F_600800203_LXNpX0d9ZbazkNfuLd4tgNH2VN7HtNlv.jpg"); /* Replace with your image path */
         margin: 0; /* Remove default body margin */
-        height: 90vh; /* Set body height to 100% viewport height */
+        height: 100vh; /* Set body height to 100% viewport height */
         background-repeat: repeat; /* Repeat the image for seamless scrolling */
         background-attachment: fixed; /* Fix the background to the viewport */
         background-size: cover; /* Ensure image covers the entire viewport */
     }
 .navigation
 {
-    height:70px;
+    height: 4em;
     background-color: rgba(0, 0, 0, 0.75);
+    position: sticky;
 }
 .site_navigation ul
     {
